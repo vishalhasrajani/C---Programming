@@ -1,0 +1,3 @@
+Difference betwwen struc and Class in c++ is :
+
+Everything is public in struct while you can make public or private in Class.
