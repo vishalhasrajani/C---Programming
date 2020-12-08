@@ -1,0 +1,13 @@
+Maps(Associative arrays)
+
+Normal arrays are called numeric arrays in which there is index number for each value
+
+while in associative arrays, we can have name of nunber for index.
+
+key and value pair are there in map.
+
+key is always unique
+
+keys are always sorted by default
+
+
